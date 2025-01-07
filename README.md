@@ -5,7 +5,7 @@ Este repositorio contiene las evidencias de mi proyecto de creación de videojue
 
 ## Lección 1
 
-| Capítulo | Enlace a la Evidencia |
+| Capítulo | Enlace a la Evidencia | Package |
 |---|---|---|
 | 1 | [Ev. Cap 1.pdf](https://github.com/user-attachments/files/18326848/Ev.Cap.1.pdf) |https://github.com/Nazaret-Martinez/U2R2-Creacion-de-Videojuego/blob/main/Capitulo%201.unitypackage|
 | 2 | [Evicencia Capitulo 2.pdf](https://github.com/user-attachments/files/18326894/Evicencia.Capitulo.2.pdf) |https://github.com/Nazaret-Martinez/U2R2-Creacion-de-Videojuego/blob/main/Capitulo%202.unitypackage|
