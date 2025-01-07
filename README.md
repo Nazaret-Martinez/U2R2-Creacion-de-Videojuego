@@ -6,13 +6,13 @@ Este repositorio contiene las evidencias de mi proyecto de creación de videojue
 ## Lección 1
 
 | Capítulo | Enlace a la Evidencia |
-|---|---|
-| 1 | [Ev. Cap 1.pdf](https://github.com/user-attachments/files/18326848/Ev.Cap.1.pdf) |
-| 2 | [Evicencia Capitulo 2.pdf](https://github.com/user-attachments/files/18326894/Evicencia.Capitulo.2.pdf) |
-| 3 | [Evidencias Cap 3.pdf](https://github.com/user-attachments/files/18326898/Evidencias.Cap.3.pdf) |
-| 4 | [Evidencias CAp 4.pdf](https://github.com/user-attachments/files/18326900/Evidencias.CAp.4.pdf) |
-| 5 | [Evidencias  Cap 5.pdf](https://github.com/user-attachments/files/18326901/Evidencias.Cap.5.pdf) |
-| 6 | [Evidencias Cap 6.pdf](https://github.com/user-attachments/files/18326902/Evidencias.Cap.6.pdf) |
+|---|---|---|
+| 1 | [Ev. Cap 1.pdf](https://github.com/user-attachments/files/18326848/Ev.Cap.1.pdf) |https://github.com/Nazaret-Martinez/U2R2-Creacion-de-Videojuego/blob/main/Capitulo%201.unitypackage|
+| 2 | [Evicencia Capitulo 2.pdf](https://github.com/user-attachments/files/18326894/Evicencia.Capitulo.2.pdf) |https://github.com/Nazaret-Martinez/U2R2-Creacion-de-Videojuego/blob/main/Capitulo%202.unitypackage|
+| 3 | [Evidencias Cap 3.pdf](https://github.com/user-attachments/files/18326898/Evidencias.Cap.3.pdf) |https://github.com/Nazaret-Martinez/U2R2-Creacion-de-Videojuego/blob/main/Capitulo%203.unitypackage1
+| 4 | [Evidencias CAp 4.pdf](https://github.com/user-attachments/files/18326900/Evidencias.CAp.4.pdf) |https://github.com/Nazaret-Martinez/U2R2-Creacion-de-Videojuego/blob/main/Capitulo4.unitypackage|
+| 5 | [Evidencias  Cap 5.pdf](https://github.com/user-attachments/files/18326901/Evidencias.Cap.5.pdf) |https://github.com/Nazaret-Martinez/U2R2-Creacion-de-Videojuego/blob/main/Capitulo%205.unitypackage|
+| 6 | [Evidencias Cap 6.pdf](https://github.com/user-attachments/files/18326902/Evidencias.Cap.6.pdf) |https://github.com/Nazaret-Martinez/U2R2-Creacion-de-Videojuego/blob/main/Capitulo%206.unitypackage|
 
 
 ## Lección 2
