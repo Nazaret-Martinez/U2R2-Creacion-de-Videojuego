@@ -64,8 +64,8 @@ Este repositorio contiene las evidencias de mi proyecto de creación de videojue
 |---|---|---|---|
 | 31 | [Lección 31 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2031%20ENMP.pdf) | Enlace Package | Video |
 | 32 | Enlace PDF | Enlace Package | Video |
-| 33 | [Lección 33 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2033%20ENMP.pdf) | Enlace Package | Video |
-| 34 | [Lección 34 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2034%20ENMP.pdf) | Enlace Package | Video |
+| 33 | [Lección 33 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2033%20ENMP.pdf) | https://drive.google.com/file/d/1P0mrZUEHKN86vPEMWNmk7YqNWNsWIRcV/view?usp=drive_link | https://drive.google.com/file/d/15TtSu_33LnmOS0DW9Kg3MeNXsjJcH-2J/view?usp=drive_link |
+| 34 | [Lección 34 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2034%20ENMP.pdf) | En| https://drive.google.com/file/d/15TtSu_33LnmOS0DW9Kg3MeNXsjJcH-2J/view?usp=drive_link
 | 35 | [Lección 35 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2035%20ENMP.pdf) | Enlace Package | Video |
 | 36 | Enlace PDF | Enlace Package | Video |
 
