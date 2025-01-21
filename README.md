@@ -7,22 +7,27 @@ Este repositorio contiene las evidencias de mi proyecto de creación de videojue
 
 | Capítulo | Enlace a la Evidencia | Package | Video |
 |---|---|---|---|
-| 1 | [Lección 1 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Capitulo1/Leccion%201%20ENMP.pdf) | [Capítulo 1 Package](https://github.com/Nazaret-Martinez/U2R2-Creacion-de-Videojuego/blob/main/Capitulo%201.unitypackage) | [Video Capítulo 1](https://drive.google.com/file/d/1-8bs9Rk_OQBbG68mxubPFvwV9_UgXOgE/view?usp=drive_link) |
-| 2 | [Lección 2 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Capitulo1/Leccion%202%20ENMP.pdf) | [Capítulo 2 Package](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Capitulo1/Capitulo%202.unitypackage) | El video es el mismo del capítulo 1 |
-| 3 | [Lección 3 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Capitulo1/Leccion%203%20ENMP.pdf) | [Capítulo 3 Package](https://github.com/Nazaret-Martinez/U2R2-Creacion-de-Videojuego/blob/main/Capitulo%203.unitypackage) | (En espera) |
-| 4 | [Evidencias Capítulo 4](https://github.com/user-attachments/files/18326900/Evidencias.CAp.4.pdf) | [Capítulo 4 Package](https://github.com/Nazaret-Martinez/U2R2-Creacion-de-Videojuego/blob/main/Capitulo4.unitypackage) | (En espera) |
-| 5 | [Evidencias Capítulo 5](https://github.com/user-attachments/files/18326901/Evidencias.Cap.5.pdf) | [Capítulo 5 Package](https://github.com/Nazaret-Martinez/U2R2-Creacion-de-Videojuego/blob/main/Capitulo%205.unitypackage) | (En espera) |
-| 6 | [Evidencias Capítulo 6](https://github.com/user-attachments/files/18326902/Evidencias.Cap.6.pdf) | [Capítulo 6 Package](https://github.com/Nazaret-Martinez/U2R2-Creacion-de-Videojuego/blob/main/Capitulo%206.unitypackage) | (En espera) |
+| 1 | [Lección 1 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Capitulo1/Leccion%201%20ENMP.pdf) | [Capítulo 1 Package](https://drive.google.com/file/d/195e49U9okJoK6EjhmIvEe3nRuV_dC3lO/view?usp=drive_link) | [Video Capítulo 1](https://drive.google.com/file/d/1-8bs9Rk_OQBbG68mxubPFvwV9_UgXOgE/view?usp=drive_link) |
+| 2 | [Lección 2 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Capitulo1/Leccion%202%20ENMP.pdf) | [Capítulo 2 Package](https://drive.google.com/file/d/1H6tH71s7DHiaifaOPMJB0h7ZOgbgYTyT/view?usp=drive_link) | [Video Capítulo 2](https://drive.google.com/file/d/1-8bs9Rk_OQBbG68mxubPFvwV9_UgXOgE/view?usp=drive_link) |
+| 3 | [Lección 3 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Capitulo1/Leccion%203%20ENMP.pdf) | [Capítulo 3 Package](https://drive.google.com/file/d/10moqYTmBrIsK0i7Yf-bqVQmdBnYmh8eB/view?usp=drive_link) | [Video Capítulo 3](https://drive.google.com/file/d/1-8bs9Rk_OQBbG68mxubPFvwV9_UgXOgE/view?usp=drive_link) |
+| 4 | [Evidencias Capítulo 4](https://github.com/user-attachments/files/18326900/Evidencias.CAp.4.pdf) | [Capítulo 4 Package](https://drive.google.com/file/d/1eSJfhj-AGNK8mCMgVXR9q5JDoia_38mU/view?usp=drive_link) | [Video Capítulo 4](https://drive.google.com/file/d/1-8bs9Rk_OQBbG68mxubPFvwV9_UgXOgE/view?usp=drive_link) |
+| 5 | [Evidencias Capítulo 5](https://github.com/user-attachments/files/18326901/Evidencias.Cap.5.pdf) | [Capítulo 5 Package](https://drive.google.com/file/d/1RKHTg68zpXwDO-Fmm2ekbKSeMZqjoluJ/view?usp=drive_link) | [Video Capítulo 5](https://drive.google.com/file/d/1-8bs9Rk_OQBbG68mxubPFvwV9_UgXOgE/view?usp=drive_link) |
+| 6 | [Evidencias Capítulo 6](https://github.com/user-attachments/files/18326902/Evidencias.Cap.6.pdf) | [Capítulo 6 Package](https://drive.google.com/file/d/1tBakDrK7tU9FRtaLjnW9owRW3ZJfg4oC/view?usp=drive_link) | [Video Capítulo 6](https://drive.google.com/file/d/1-8bs9Rk_OQBbG68mxubPFvwV9_UgXOgE/view?usp=drive_link) |
 
 # Lección 2
 
 | Capítulo | Enlace a la Evidencia | Package | Video |
 |---|---|---|---|
-| 7 | [Lección 7 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%207%20ENMP.pdf) | [Capítulo 7 Package](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Capitulo%207.unitypackage) | [Video Capítulo 7](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Capitulo7.mp4) |
-| 8 | [Lección 8 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%208%20%20ENMP.pdf) | Enlace Package | Video |
+| 7 | [Lección 7 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%207%20ENMP.pdf) | [Capítulo 7 Package](https://drive.google.com/file/d/1bct4j-Kwz8XfYDaiA7EJfPTfilszckQO/view?usp=drive_link) | [Video Capítulo 7](https://drive.google.com/file/d/1OS9HLkhP8m87g2ZwaAunjKGOx_b1Rteq/view?usp=drive_link) |
+
+| 8 | [Lección 8 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%208%20%20ENMP.pdf) | [Capítulo 8 Package] (https://drive.google.com/file/d/10Zdr_DUv3mGmtf6I6wSMj5HNCwR0wYg1/view?usp=drive_link)| [Video Capítulo 8] (https://drive.google.com/file/d/1aU3kvsMYt3vWxni17WjVB4Bm5tbIpWno/view?usp=drive_link) |
+
 | 9 | [Lección 9 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%209%20ENMP.pdf) | Enlace Package | Video |
+
 | 10 | [Lección 10 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2010%20ENMP.pdf) | Enlace Package | Video |
+
 | 11 | [Lección 11 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2011%20ENMP.pdf) | https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Capitulo%2011.unitypackage | https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Capitulo%2011.mp4 |
+
 | 12 | [Lección 12 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2012%20ENMP.pdf) | https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Capitulo%2010.unitypackage | https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Capitulo%2012.mp4 |
 
 # Lección 3
