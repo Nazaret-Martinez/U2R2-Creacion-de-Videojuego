@@ -51,12 +51,12 @@ Este repositorio contiene las evidencias de mi proyecto de creación de videojue
 
 | Capítulo | Enlace a la Evidencia | Package | Video |
 |---|---|---|---|
-| 25 | [Lección 25 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2025%20ENMP.pdf) | Enlace Package | Video |
-| 26 | [Lección 26 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2026%20ENMP.pdf) | Enlace Package | Video |
-| 27 | [Lección 27 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2027%20ENMP.pdf) | Enlace Package | Video |
-| 28 | [Lección 28 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2028%20ENMP.pdf) | Enlace Package | Video |
-| 29 | [Lección 29 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2029%20ENMP.pdf) | Enlace Package | Video |
-| 30 | [Lección 30 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2030%20ENMP.pdf) | Enlace Package | Video |
+| 25 | [Lección 25 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2025%20ENMP.pdf) | [Capítulo 25 Package](https://drive.google.com/file/d/1Bwazmyzib6tR7zCB_tLwtJJ9M0S3H919/view?usp=drive_link) | [Video Capítulo 25](https://drive.google.com/file/d/1mXZnyRsntSp81qJEtx9u1s4o5tCnhNph/view?usp=drive_link) |
+| 26 | [Lección 26 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2026%20ENMP.pdf) | [Capítulo 26 Package](https://drive.google.com/file/d/1PJ0GqPvPv-g6sm5cYZKRQl9CYj0CFAcu/view?usp=drive_link) | [Video Capítulo 26](https://drive.google.com/file/d/1kdvb48xEwrUO20jYrZ108zCiDV1GE8CF/view?usp=drive_link) |
+| 27 | [Lección 27 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2027%20ENMP.pdf) | [Capítulo 27 Package](https://drive.google.com/file/d/1uL2OORygoJ4IE6eIoikioHV28zrfmIqH/view?usp=drive_link) | [Video Capítulo 27](https://drive.google.com/file/d/1ghwPXiizd2c--HT6muUbiuWlM78y-FHO/view?usp=drive_link) |
+| 28 | [Lección 28 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2028%20ENMP.pdf) | [Capítulo 28 Package](https://drive.google.com/file/d/1zDO--Bu6zdg360po6uaaWZat1FCkj2vZ/view?usp=drive_link) | [Video Capítulo 28](https://drive.google.com/file/d/1WyBy_dw-XWswB6fC3TxexY-8rMuP8OUj/view?usp=drive_link) |
+| 29 | [Lección 29 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2029%20ENMP.pdf) | [Capítulo 29 Package](https://drive.google.com/file/d/1lYOqKP-_MJhpxVh0ZedtOtmaGUg8ABez/view?usp=drive_link) | [Video Capítulo 29] |
+| 30 | [Lección 30 ENMP](https://github.com/Nazaret-Martinez/Archivos-para-subir/blob/main/Leccion%2030%20ENMP.pdf) | [Capítulo 30 Package](https://drive.google.com/file/d/1j9q8zw59UqVRuPEzkURUEjQDliJZ33nX/view?usp=drive_link) | [Video Capítulo 30](https://drive.google.com/file/d/1VbOKGeoc4zj0B4SFpBdEp6FWxXzTTTiG/view?usp=drive_link) |
 
 # Lección 6
 
